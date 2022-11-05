@@ -1,0 +1,25 @@
+.movie{
+  display: flex;
+  flex-wrap: no-wrap;
+  margin: 30px;
+}
+.mov{ 
+  margin: 10px;
+height: 200px;
+width: 150px;
+}
+.abc{
+float: right;
+margin-top: -50px;
+margin-right: 10px;
+
+}
+.btn{
+  height: 30px;
+  margin-top: 220px;
+  margin-left:-130px ;
+}
+.mov:hover{
+  height: 400px;
+  width: 300px;
+}
